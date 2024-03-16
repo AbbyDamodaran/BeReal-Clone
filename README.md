@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
-![Simulator Screen Recording - iPhone 15 - 2024-03-15 at 22 12 24](https://github.com/AbbyDamodaran/BeReal-Clone/assets/78409617/739b4fcd-9e3f-4526-8042-0e997cfb3646)
+![W3 v2 Simulator Screen Recording - iPhone 15 - 2024-03-15 at 22 18 54](https://github.com/AbbyDamodaran/BeReal-Clone/assets/78409617/090c5be4-843a-465b-b532-2cf0e158b3d1)
 
 ## License
 
