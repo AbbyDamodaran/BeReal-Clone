@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Click play to see the demo:
+![Simulator Screen Recording - iPhone 15 - 2024-03-15 at 22 12 24](https://github.com/AbbyDamodaran/BeReal-Clone/assets/78409617/739b4fcd-9e3f-4526-8042-0e997cfb3646)
 
 ## License
 
